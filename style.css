@@ -1,11 +1,11 @@
 @font-face {
     font-family: "Pusab" ;
-    src: url(../Font/PUSAB___.otf);
+    src: url(PUSAB___.otf);
 }    
 
 @font-face {
     font-family: "Title" ;
-    src: url(../Font/OXYGENE1.TTF);
+    src: url(OXYGENE1.TTF);
 } 
 
 h1 {
