@@ -1,0 +1,55 @@
+@font-face {
+    font-family: "Pusab" ;
+    src: url(../Font/PUSAB___.otf);
+}    
+
+@font-face {
+    font-family: "Title" ;
+    src: url(../Font/OXYGENE1.TTF);
+} 
+
+h1 {
+    font-family: "Title", sans-serif;
+    font-size: 9999;
+    color: rgb(89, 167, 11);
+    -webkit-text-stroke: 2px white;
+}
+
+p {
+    font-family: "Pusab";
+    font-size: medium;
+    color: rgb(255, 255, 255);
+    -webkit-text-stroke: 2px black;
+}
+
+li {
+    font-family: "Pusab";
+    font-size: medium;
+    color: rgb(255, 255, 255);
+    -webkit-text-stroke: 2px black;
+}
+
+h2 {
+    font-family: "Pusab", sans-serif;
+    font-size: medium;
+    color: rgb(255, 255, 255);
+    -webkit-text-stroke: 2px black;
+}
+
+h3 {
+    font-family: "Pusab", sans-serif;
+    font-size: large;
+    color: rgb(255, 255, 255);
+}
+u {
+    font-family: "Pusab", sans-serif;
+    font-size: medium;
+    color: rgb(255, 255, 255);
+    -webkit-text-stroke: 2px black;
+}
+
+.outline{-webkit-text-stroke: 2px black;}
+
+body{
+    background-color: lightslategray;
+}
